@@ -19,4 +19,4 @@ Full notebook (Hotel_cancellations_project_FULL_NOTEBOOK.ipynb)
 
 statsmodels, sklearn, numpy, pandas, matplotlib, seaborn
 
-![Uploading Screen Shot 2022-09-07 at 1.33.06 PM.png…]()
+<img width="800" alt="Screen Shot 2022-09-07 at 1 33 06 PM" src="https://user-images.githubusercontent.com/103470261/188985120-83ced947-ef34-45df-a5b0-7bf87e4877c9.png">
