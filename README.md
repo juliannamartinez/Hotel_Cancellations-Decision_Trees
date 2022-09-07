@@ -13,8 +13,10 @@ Logistic regression, Multicollinearity, Finding optimal threshold using AUC-ROC 
 
 Full notebook (Hotel_cancellations_project_FULL_NOTEBOOK.ipynb)
 
-> This notebook contains the entirety of the project including all of the code to perform a run-down of the data/datatypes, exploratory data analysis, and all insights and observations. This file contains all variations/tests of the decision tree model with various pruning methods. The final (best) model is at the bottom of the notebook with the conclusions and actionable insights. 
+> This notebook contains the entirety of the project including all of the code to perform a run-down of the data/datatypes, exploratory data analysis, and all insights and observations. This file contains all variations/tests of the decision tree model with various pruning methods. The final (best) model (image below) is at the bottom of the notebook with the conclusions and actionable insights. 
 
 ### Libraries used:
 
 statsmodels, sklearn, numpy, pandas, matplotlib, seaborn
+
+![Uploading Screen Shot 2022-09-07 at 1.33.06 PM.png…]()
