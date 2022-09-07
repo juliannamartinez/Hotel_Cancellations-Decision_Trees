@@ -9,15 +9,11 @@ This dataset contains attributes of hotel customers' booking details. The data w
 
 Logistic regression, Multicollinearity, Finding optimal threshold using AUC-ROC curve, Decision trees, Pruning, Data Pre-processing, Exploratory Data Analysis (Variable Identification, Univariate analysis, Bi-Variate analysis), Python
 
-## This project contains 2 files:
+## This project contains 1 files:
 
 Full notebook (Hotel_cancellations_project_FULL_NOTEBOOK.ipynb)
 
-> This notebook contains the entirety of the project including all of the code to perform a run-down of the data/datatypes, exploratory data analysis, and all insights and observations.
-
-Key Insights (Hotel_cancellations_project_KEY_INSIGHTS.ipynb)
-
-> This notebook contains only some important visualizations, results, and insights (less of the scratchwork).
+> This notebook contains the entirety of the project including all of the code to perform a run-down of the data/datatypes, exploratory data analysis, and all insights and observations. This file contains all variations/tests of the decision tree model with various pruning methods. The final (best) model is at the bottom of the notebook with the conclusions and actionable insights. 
 
 ### Libraries used:
 
